@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>10044.jpeg</filename>
+	<path>E:\浏览器下载\图片助手(ImageAssistant)_批量图片下载器\JPEGImages\10044.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2054</width>
+		<height>1542</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>679</xmin>
+			<ymin>197</ymin>
+			<xmax>1428</xmax>
+			<ymax>1226</ymax>
+		</bndbox>
+	</object>
+</annotation>

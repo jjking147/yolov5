@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>10036.png</filename>
+	<path>E:\浏览器下载\图片助手(ImageAssistant)_批量图片下载器\JPEGImages\10036.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1337</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>160</ymin>
+			<xmax>913</xmax>
+			<ymax>1162</ymax>
+		</bndbox>
+	</object>
+</annotation>
